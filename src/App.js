@@ -12,5 +12,6 @@ class App extends Component {
 }
 
 // Fine. What happens now?
+// Test
 
 export default App;
