@@ -9,7 +9,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // This is my change
 // Another change to test commit messages
 
-// This is a different change to see what happens when I merge
+// This is a change to commit to branch
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
